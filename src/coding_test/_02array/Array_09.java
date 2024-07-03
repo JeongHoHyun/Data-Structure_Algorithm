@@ -85,7 +85,4 @@ public class Array_09 {
         System.out.println("-------------------");
         System.out.println(T.bestSolution(n, iArr));
     }
-
-
-
 }
